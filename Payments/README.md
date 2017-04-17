@@ -29,7 +29,7 @@ This sample demonstrates how to get started with the [BlackBerry Payment Service
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.app
 	com.blackberry.payment
@@ -38,14 +38,14 @@ This sample demonstrates how to get started with the [BlackBerry Payment Service
 	
 ## Using The Sample ##
 
-####Development Mode
+#### Development Mode
 **To test locally you *must* enable development mode in your code *before* making any calls to the Payment Service!**
 
 	// turn on development mode for the payment service
     blackberry.payment.developmentMode = true;
 
 
-####Making a Purchase
+#### Making a Purchase
 
 
 **The following code is used make a purchase. You'll be prompted with a Purchase dialog where you're able to set the properties of your purchase. *(See screenshot 2)***
@@ -74,7 +74,7 @@ This sample demonstrates how to get started with the [BlackBerry Payment Service
 		}		
 	);
         
-####Check Existing Purchases
+#### Check Existing Purchases
 
 **The following code is used for checking existing purchases. An object will be returned to you which lists all of the purchases the user has made in your app.**
 

@@ -33,7 +33,7 @@ This sample demonstrates how to easily use gestures in a BlackBerry WebWorks app
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.ui.toast
 

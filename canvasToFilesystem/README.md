@@ -28,7 +28,7 @@ For a full explanation of the code, please refer to this [Knowledge Base article
 
 ## Requirements ##
 
-####Cordova Plugins####
+#### Cordova Plugins ####
 
 	com.blackberry.app
 	com.blackberry.invoke
@@ -36,7 +36,7 @@ For a full explanation of the code, please refer to this [Knowledge Base article
 	com.blackberry.io
 	com.blackberry.ui.toast
 
-####BlackBerry Permissions####
+#### BlackBerry Permissions ####
 
 	access_shared
 

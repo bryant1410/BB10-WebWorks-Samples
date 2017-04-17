@@ -40,7 +40,7 @@ If you'd like to learn more about the [Built For BlackBerry](https://developer.b
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.bbm.platform
 	com.blackberry.invoke
@@ -52,7 +52,7 @@ If you'd like to learn more about the [Built For BlackBerry](https://developer.b
 
 ## Using The Boilerplate ##
 
-####[Activity Spinner](https://github.com/blackberry/bbUI.js/wiki/Activity-Indicator)
+#### [Activity Spinner](https://github.com/blackberry/bbUI.js/wiki/Activity-Indicator)
 
 **Show**  
 	
@@ -65,7 +65,7 @@ If you'd like to learn more about the [Built For BlackBerry](https://developer.b
 	Spinner.off();
 	
 
-####[BBM](https://developer.blackberry.com/devzone/develop/bbm_connected/bbm.html)####
+#### [BBM](https://developer.blackberry.com/devzone/develop/bbm_connected/bbm.html) ####
 
 
 **Register with the BlackBerry Messenger service**
@@ -81,7 +81,7 @@ If you'd like to learn more about the [Built For BlackBerry](https://developer.b
 	Bbm.inviteToDownload();
 
 
-####[Invoking Apps](https://developer.blackberry.com/html5/documentation/invoking_core_apps.html)####
+#### [Invoking Apps](https://developer.blackberry.com/html5/documentation/invoking_core_apps.html) ####
 
 **Share Targets**
 
@@ -146,7 +146,7 @@ If you'd like to learn more about the [Built For BlackBerry](https://developer.b
 	});
 
 
-####[Toasts](https://developer.blackberry.com/html5/apis/blackberry.ui.toast.html)####
+#### [Toasts](https://developer.blackberry.com/html5/apis/blackberry.ui.toast.html) ####
 
 **Regular**
 
@@ -156,7 +156,7 @@ If you'd like to learn more about the [Built For BlackBerry](https://developer.b
 
 	Toast.withButton('Toast w/Button', 'Button', 'toastCallbackFunction', 3000);
 
-####[Window Covers](https://developer.blackberry.com/html5/apis/blackberry.ui.cover.html)####
+#### [Window Covers](https://developer.blackberry.com/html5/apis/blackberry.ui.cover.html) ####
 
 **Setup a Window Cover / Active Frame</br>**
 

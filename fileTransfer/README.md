@@ -25,7 +25,7 @@ The primary functionality is implemented in **index.html**..
 
 ## Requirements ##
 
-####Cordova Plugins####
+#### Cordova Plugins ####
 
 **com.blackberry.utils** will be added by default when you add **com.blackberry.io.filetransfer**. You will need to manually add these plugins:
 
@@ -34,13 +34,13 @@ The primary functionality is implemented in **index.html**..
 	org.apache.cordova.file
 	org.apache.cordova.file-transfer
 
-####BlackBerry Permissions####
+#### BlackBerry Permissions ####
 
 You will need permission to access the shared file system in order to save downloaded files.
 
 	access_shared
 
-####Domain Whitelisting####
+#### Domain Whitelisting ####
 
 You will need to whitelist the domain of the external server that you will be downloading from / uploading to.
 

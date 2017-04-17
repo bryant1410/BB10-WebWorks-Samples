@@ -31,11 +31,11 @@ This sample demonstrates how to invoke BBM Channels. You'll learn how to open, a
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.invoke
 
-####Invoking a Channel
+#### Invoking a Channel
 
 **The following code is used to invoke, and view a Channel**
 
@@ -58,7 +58,7 @@ This sample demonstrates how to invoke BBM Channels. You'll learn how to open, a
     );
 
 
-####Sharing Text
+#### Sharing Text
 
 
 **The following code is used to share text to a Channel**
@@ -83,7 +83,7 @@ This sample demonstrates how to invoke BBM Channels. You'll learn how to open, a
     );
 
 
-####Sharing Photos
+#### Sharing Photos
 
 **The following code is used for sharing a photo with a Channel**
 

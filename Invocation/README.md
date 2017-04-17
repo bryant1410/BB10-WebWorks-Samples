@@ -28,7 +28,7 @@ This sample application demonstrates how to invoke a number of core applications
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.invoke
 	com.blackberry.invoke.card

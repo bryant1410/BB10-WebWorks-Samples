@@ -32,7 +32,7 @@ Facebook OAuth Sample is the name of a proof-of-concept WebWorks application tha
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.app
 	com.blackberry.ui.toast

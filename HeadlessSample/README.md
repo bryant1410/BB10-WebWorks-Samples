@@ -19,7 +19,7 @@ This sample shows how a front-end WebWorks application can include a native head
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.io
 

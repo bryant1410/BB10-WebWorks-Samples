@@ -31,7 +31,7 @@ This sample demonstrates how to integrate Flurry "App Analytics" in to a BlackBe
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.app
 	com.blackberry.system

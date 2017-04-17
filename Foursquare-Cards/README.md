@@ -33,7 +33,7 @@ This sample demonstrates how an application can integrate with the available Fou
 
 ## Using The Sample ##
 
-####Single Sign-On
+#### Single Sign-On
 
 	var request = {
 		target: "com.foursquare.blackberry.sso.card",
@@ -43,7 +43,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};
 
 
-####Venue Search
+#### Venue Search
 
 	var request = {
 		target: "com.foursquare.blackberry.venuesearch.card",
@@ -53,7 +53,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};
 	
 
-####Explore
+#### Explore
 
 	var request = {
 		target: "com.foursquare.blackberry.uri",
@@ -62,7 +62,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};	
 
 
-####User Profile
+#### User Profile
 
 	var request = {
 		target: "com.foursquare.blackberry.uri",
@@ -71,7 +71,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};
 
 
-####Friend Requests
+#### Friend Requests
 
 	var request = {
 		target: "com.foursquare.blackberry.uri",
@@ -80,7 +80,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};
 
 
-####Friend Suggestions
+#### Friend Suggestions
 
 	var request = {
 		target: "com.foursquare.blackberry.uri",
@@ -89,7 +89,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};
 
 
-####Page Suggestions
+#### Page Suggestions
 
 	var request = {
 		target: "com.foursquare.blackberry.uri",
@@ -98,7 +98,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};
 
 
-####Add Friends
+#### Add Friends
 
 	var request = {
 		target: "com.foursquare.blackberry.uri",
@@ -107,7 +107,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};
 
 
-####Checkin
+#### Checkin
 
 	var request = {
 		target: "com.foursquare.blackberry.uri",
@@ -116,7 +116,7 @@ This sample demonstrates how an application can integrate with the available Fou
 	};
 
 
-####How to call the invocation request
+#### How to call the invocation request
 
 	blackberry.invoke.invoke(
 		request,
@@ -135,7 +135,7 @@ This sample demonstrates how an application can integrate with the available Fou
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.invoke
 	com.blackberry.invoke.card

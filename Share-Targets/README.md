@@ -29,7 +29,7 @@ This sample demonstrates how to invoke a list of Share Targets (aka. display a "
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.invoke
 	com.blackberry.invoke.card

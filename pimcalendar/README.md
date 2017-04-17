@@ -29,14 +29,14 @@ The primary functionality is implemented in **index.js**, while the remaining fi
 
 ## Requirements ##
 
-####Cordova Plugins####
+#### Cordova Plugins ####
 
 	com.blackberry.app
 	com.blackberry.pim.calendar
 	com.blackberry.system
 	com.blackberry.ui.contextmenu
 
-####BlackBerry Permissions####
+#### BlackBerry Permissions ####
 
 	access_pimdomain_calendars
 

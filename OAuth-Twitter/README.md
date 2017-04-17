@@ -32,7 +32,7 @@ Twitter OAuth Sample is the name of a proof-of-concept WebWorks application that
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.app
 	com.blackberry.ui.toast
@@ -72,7 +72,7 @@ This sample app shows how to connect your application with a few different Twitt
 
 ***Note: This sample shows how to interact with the new Twitter API v1.1 End Points. Important changes have been made, [check-out Twitter's documentation](https://dev.twitter.com/docs/api/1.1).***
 
-###Obtaining Request Tokens
+### Obtaining Request Tokens
 
 	twitterOauth.get('https://api.twitter.com/oauth/request_token',
 		// success callback
@@ -84,7 +84,7 @@ This sample app shows how to connect your application with a few different Twitt
 		}
 	);
 
-###Exchanging request tokens for an Access Token
+### Exchanging request tokens for an Access Token
 		
 	twitterOauth.get('https://api.twitter.com/oauth/access_token?oauth_verifier=' + oauthVerifier + '&' + requestParams,
 
@@ -97,7 +97,7 @@ This sample app shows how to connect your application with a few different Twitt
 		}
 	);
 
-###Posting a Tweet
+### Posting a Tweet
 
 	twitterOauth.post('https://api.twitter.com/1/statuses/update.json', {
 		'status': status
@@ -112,7 +112,7 @@ This sample app shows how to connect your application with a few different Twitt
 		}
 	);
 
-###Viewing the Timeline
+### Viewing the Timeline
 
 	twitterOauth.get('https://api.twitter.com/1/statuses/user_timeline.json',
 

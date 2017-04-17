@@ -30,7 +30,7 @@ This sample demonstrates how to integrate Localytics "App Analytics" in to a Bla
 
 ## Required Plugins ##
 
-####The following Cordova Plugins are required for this sample:####
+#### The following Cordova Plugins are required for this sample: ####
 
 	com.blackberry.app
 	com.blackberry.ui.toast
@@ -40,10 +40,10 @@ This sample demonstrates how to integrate Localytics "App Analytics" in to a Bla
 
 Note: This sample is collecting live analytics data. To use this sample code in your own application, you must first [register](http://www.localytics.com/register) with Localytics and create your own application. A unique application key will be generated, and used to track analytics for your own app.
 
-#####1. Register with Localytics#####
+##### 1. Register with Localytics #####
 To begin tracking your own applications usage, you must [Sign-up for Localytics](http://www.localytics.com/register). Once registered you will be able to create a new application and obtain your unique app "key" (used for tracking analytics). If you'd like to run this sample app using my test keys that's fine as well, just remember that in order to track your own analytics you'll need to register for an account.<br/>
 
-#####2. Use your own key#####
+##### 2. Use your own key #####
 Your application key is used to identify your specific app on the Localytics server, so it knows which app is being tracked. If you are using this sample code for reference and did not replace my key for yours, you will not see any analytics data when you login to your Localytics dashboard.
 
 To use your own key, edit the following code on ***line 31 of js/app.js***.
@@ -52,7 +52,7 @@ To use your own key, edit the following code on ***line 31 of js/app.js***.
 localyticsSession = LocalyticsSession("<insert your key here>", options);
 ```
 
-#####3. Tracking events and usage#####
+##### 3. Tracking events and usage #####
 Localytics has done an amazing job at creating simple, easy to follow instructions for how to get started. Rather than duplicate their efforts I ***strongly*** recommend that you read their [HTML5 Integration Guide](http://www.localytics.com/docs/html5-integration/).
 
 

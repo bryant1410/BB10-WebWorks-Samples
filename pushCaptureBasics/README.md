@@ -25,7 +25,7 @@ The primary client functionality is implemented in **pushClient.js** and **pushI
 
 ## Requirements ##
 
-####Cordova Plugins####
+#### Cordova Plugins ####
 
 **com.blackberry.utils** will be added automatically. You will need to manually add these plugins:
 
@@ -39,7 +39,7 @@ The primary client functionality is implemented in **pushClient.js** and **pushI
 
 	com.blackberry.identity
 
-####Domain Whitelisting####
+#### Domain Whitelisting ####
 
 You will need to whitelist the BlackBerry Push servers for initiating pushes.
 

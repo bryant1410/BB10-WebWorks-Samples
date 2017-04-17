@@ -1,5 +1,5 @@
 
-#BB10 WebWorks Samples Repository for WebWorks 2.0
+# BB10 WebWorks Samples Repository for WebWorks 2.0
 
 __Note:__ This branch is in the process of being updated for the release of WebWorks 2.0, which is based on Cordova. We are starting from the Existing code though, so anything last changed before the creation of this branch (Nov 14 2013) has not been updated yet. We are prioritizing the sample list and working towards the release date but please be aware of this before attempting to use this code. The README files will be updated when a sample is ready as well.
 
